@@ -1,15 +1,11 @@
-- name: toy-http
-  link: "https://github.com/lukas-h/toy-http"
-  description: "Ein HTTP Server mit minimalem Footprint für statisches Filehosting."
+- name: Track n Secure
+  link: "https://play.google.com/store/apps/developer?id=Akik+Kothekar"
+  description: "Track n Secure is an app developed by me which is aimed at reducing the number of child abductions. With the help of this app parents can keep track of their children."
 
-- name: Snippets
-  link: "https://bitbucket.org/snippets/lukashimsel/"
-  description: "Code-Schnipsel und Experimente auf Bitbucket."
+- name: Free Primary and Secondary Education for India
+  link: "https://drive.google.com/file/d/0BwemRlakRbiKTF9PeTRIcVQ0SG8/view"
+  description: "This project is about using technology to make primary and secondary education free in the true sense, in India. "
 
-- name: Circle of Fifths
-  link: "http://himsel.me/fifths/"
-  description: "Ein Quintenzirkel für Musikalische."
-
-- name: Code for Heilbronn
-  link: "https://github.com/opendata-heilbronn"
-  description: "Open Data Initiative rund um die Stadt Heilbronn."
+- name: Exploration of Successive Over-Relaxation Solver for Linear Systems
+  link: "https://akkothekar.github.io"
+  description: "The Research focuses on exploring an various iterative method used to approximate the solution of linear systems"
