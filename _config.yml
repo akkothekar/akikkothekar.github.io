@@ -1,25 +1,25 @@
 title: "Akik Kothekar"
-description: "Lukas Himsels persönliche Website mit Themen wie Musik, Klaviere, Open-Data, Open-Source und Webprojekten."
-about: "Schüler, der gerne Klavier spielt, Joggen geht und <i>versucht</i>, Websites und Programme zu entwickeln."
-location: "Deutschland, Kitzingen"
-email: lukas@himsel.me
+description: "Personal website of Akik Kothekar."
+about: "Aspiring Computer Science Student"
+location: "Mumbai, India"
+email: akkothekar@gmail.com
 baseurl: ""
-url: "http://himsel.me"
-twitter_username: lukashimsel
-github_username:  lukas-h
+url: "http://akkothekar.github.io" # replace by your site's url
+twitter_username: AkikKothekar
+github_username:  akkothekar
 
 # google analytics tracking code, please change the value
-g_analytics: "UA-72004048-3"
+g_analytics: ""
 
 # language settings
-isolang: de
-close_btn: "Ausblenden"
-home_btn: "Startseite"
-projects_btn: "Projekte"
+isolang: en
+close_btn: "Close"
+home_btn: "Home"
+projects_btn: "Projects"
 posts_btn: "Posts"
-imprint_btn: "Impressum"
-name_badge: "Ein Artikel von"
-rss_badge: "Feed abbonieren!"
+imprint_btn: "Imprint"
+name_badge: "an article by"
+rss_badge: "Subscribe feed!"
 
 # build settings
 markdown: kramdown
