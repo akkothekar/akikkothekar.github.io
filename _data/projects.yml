@@ -9,3 +9,7 @@
 - name: Exploration of Successive Over-Relaxation Solver for Linear Systems
   link: "http://akikkothekar.xyz/SORM_Project.pdf"
   description: "The Research focuses on exploring an various iterative method used to approximate the solution of linear systems"
+
+- name: Research Abstract for the above Research Project
+  link: "http://akikkothekar.xyz/SORM_Abstract.pdf"
+  description: "One page overview of the above Research Project. I understand if you don't want to go through all 20 pages of the above report"
