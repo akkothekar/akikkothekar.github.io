@@ -36,5 +36,10 @@
     <link rel="stylesheet" href="{{ "/styles/syntax.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/styles/github-markdown.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/styles/fa/css/font-awesome.min.css" | prepend: site.baseurl }}">
+    
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
 
 </head>
